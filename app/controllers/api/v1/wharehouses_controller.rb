@@ -1,0 +1,1 @@
+wharehouses_controller.rb
